@@ -9,9 +9,9 @@
 ## 🚀 Sobre mim
 
 - 👨‍💻 Tenho 23 anos e atuo há 3 anos como desenvolvedor .NET
-- 🧠 Estudando forte DDD, TDD, SOLID, Arquitetura Hexagonal, Patterns e Padrões de Projeto
+- 🧠 Cursando uma pós-graduação de Software Architeture na FIAP, focado em me especializar em padrões projeto como DDD, TDD, SOLID, Arquitetura Hexagonal e Patterns.
 - 🔨 Curioso e apaixonado por entender **como as coisas se conectam por trás dos bastidores**
-- ☕ Sobrevivente de **Visual Studio 2005**, mas explorando o melhor das tecnologias modernas
+- ☕ Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL SERVER 2008**, mas explorando o melhor das tecnologias modernas 
 
 ---
 
