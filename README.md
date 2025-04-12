@@ -42,7 +42,7 @@
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/alexandre-alencar-795b33216) 
+- [LinkedIn](https://www.linkedin.com/in/alexandre-alencar-795b33216/)
 - E-mail: `ale.alencarr@outlook.com.br` 
 
 ---
