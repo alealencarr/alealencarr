@@ -11,7 +11,6 @@
 - 👨‍💻 Tenho 23 anos e atuo há 3 anos como desenvolvedor .NET
 - 🧠 Cursando uma pós-graduação de Software Architecture na FIAP, focado em me especializar em padrões projeto como DDD, TDD, SOLID, Arquitetura Hexagonal e Patterns.
 - 🔨 Curioso e apaixonado por entender **como as coisas se conectam por trás dos bastidores**
-- ☕ Profissionalmente sou um sobrevivente do **Visual Studio 2005** e **SQL SERVER 2008**, mas explorando o melhor das tecnologias modernas 
 
 ---
 
@@ -35,7 +34,7 @@
 
 - Estudando 🔍 Clean Architecture, Testes Automatizados, SOLID
 - Explorando 🔧 padrões de projeto e técnicas avançadas com `.NET Core` e `.NET Framework`
-- Mergulhando 🐳 no ecossistema **Docker**, **Containers**, **User Secrets**, e boas práticas de segurança
+- Mergulhando 🐳 no ecossistema **Docker**, **Containers** e boas práticas de segurança
 
 
 ---
