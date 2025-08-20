@@ -9,7 +9,7 @@
 
 <div align="center" style="display: inline_block"><br>
 <h1 align="center">Hi guys! I am, Software Engineer: Alexandre Alencar! 👋🧠</h1>
-<h3 align="center">Engenheiro de Software Fullstack focado em ecossistemas .NET</h3>
+<h3 align="center">Software Engineer Fullstack .NET</h3>
 </div>
 
 <br>
@@ -60,5 +60,5 @@ CI/CD with Azure DevOps
 </p>
 
 ⭐ Thanks!  
-_"Codar é construir o futuro, um commit por vez."_ 🚀
-_"Coding is building the future, one commit at a time."_ 🚀
+## _"Codar é construir o futuro, um commit por vez."_ 🚀
+## _"Coding is building the future, one commit at a time."_ 🚀
