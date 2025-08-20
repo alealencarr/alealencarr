@@ -14,22 +14,46 @@
 
 <br>
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-Sou um Engenheiro de Software com mais de 4 anos de experiência, apaixonado por construir soluções robustas e escaláveis. Minha jornada começou com sistemas ERP legados e hoje estou focado em arquiteturas modernas para aplicações de varejo e logística, utilizando as tecnologias mais atuais do ecossistema .NET.
+Software Engineer with 4+ years of experience, focused on backend development using .NET technologies. Solid background in both legacy ERP systems and modern architectures for retail and logistics solutions.
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas (FECAF, 2023).
+I started my journey working on a legacy ERP system with Web Forms, ADO.NET, and SQL Server 2008. Currently, I work on building scalable, internal applications for retail logistics using modern tools like .NET 9, C# 10, Blazor, and EF Core.
 
-🧠 Pós-graduando em Arquitetura de Software (FIAP, 2026).
+Graduated in Systems Analyisis and Development and currently pursuing a post-graduate degree in Software Architecture at FIAP.
 
-🌱 Buscando sempre aprender sobre novas arquiteturas, padrões de projeto e práticas de DevOps.
+Hard Skills
 
-🛠️ Minhas Ferramentas e Tecnologias
-Aqui estão algumas das minhas Skills [Frontend, Backend e DevOps]:
+- Backend
+
+Languages: C#
+Frameworks: .NET Core, ASP.NET, .NET Framework
+APIs: REST, SOAP
+Data Access: EF Core, Dapper, ADO.NET
+DBs: SQL Server, T-SQL
+Patterns: Design Patterns, SOLID
+Architectural: Clean, Hexagonal, Microservices, Vertical Slices, MVC
+Auth: JWT, Retry, Circuit Break, Policies
+
+- Frontend
+
+Blazor, Razor, Web Forms, jQuery
+
+- DevOps & Tools
+
+Git, GitHub, Azure DevOps, Docker
+CI/CD with Azure DevOps
+
+[Frontend, Backend e DevOps]:
 
 ![Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
 
-📫 Como me encontrar
+## Education: 
+
+🎓 ADS – FECAF (Completed 12/2023)
+🎓 Postgrad in Software Architecture – FIAP (Ongoing, Jan/2026)
+
+📫 Call me:
 <p align="left">
 <a href="https://linkedin.com/in/alealencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:ale.alencarr@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -37,3 +61,4 @@ Aqui estão algumas das minhas Skills [Frontend, Backend e DevOps]:
 
 ⭐ Thanks!  
 _"Codar é construir o futuro, um commit por vez."_ 🚀
+_"Coding is building the future, one commit at a time."_ 🚀
