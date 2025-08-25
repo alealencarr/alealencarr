@@ -9,10 +9,8 @@
 
 <div align="center" style="display: inline_block"><br>
 <h1 align="center">Hi guys! I am, Software Engineer: Alexandre Alencar! 👋🧠</h1>
-<h3 align="center">Software Engineer Fullstack .NET</h3>
+<h2 align="center">Software Engineer Fullstack .NET</h2>
 </div>
-
-<br>
 
 ## 👨‍💻 About me
 
