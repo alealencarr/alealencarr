@@ -30,8 +30,8 @@ APIs: REST, SOAP
 Data Access: EF Core, Dapper, ADO.NET
 DBs: SQL Server, T-SQL
 Patterns: Design Patterns, SOLID
-Architectural: Clean, Hexagonal, Microservices, Vertical Slices, MVC
-Auth: JWT, Retry, Circuit Break, Policies
+Architectural: Clean, Hexagonal, Microservices, Vertical Sliced, MVC
+Auth: JWT, AD e Cognito
 
 - Frontend
 
@@ -39,7 +39,7 @@ Blazor, Razor, Web Forms, jQuery
 
 - DevOps & Tools
 
-Git, GitHub, Azure DevOps, Docker
+Git, GitHub, Azure DevOps, Docker, Kubernetes
 CI/CD with Azure DevOps
 
 [Frontend, Backend e DevOps]:
