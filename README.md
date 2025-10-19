@@ -11,6 +11,8 @@ I started my journey working on a legacy ERP system with Web Forms, ADO.NET, and
 
 Graduated in Systems Analyisis and Development and currently pursuing a post-graduate degree in Software Architecture at FIAP.
 
+My portfólio: alealencarrdev.vercel.app
+
 <br>
 <div align="center">
 <a href="https://github.com/alealencarr">
