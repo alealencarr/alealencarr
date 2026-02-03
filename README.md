@@ -16,7 +16,7 @@ My portfólio: [Portfólio Ale Alencar - Developer](https://alealencarrdev.verce
 <br>
 <div align="center">
 <a href="https://github.com/alealencarr">
-<img src="https://gitmystat.vercel.app/api?username=alealencarr&theme=dark" />
+<img src="https://github-stats-evirunurm.vercel.app/api/stats.js?username=alealencarr" />
 <img src="https://github-readme-stats-fast.vercel.app/api?username=alealencarr&show_icons=true" />
 </a>
 </div>
