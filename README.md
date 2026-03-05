@@ -3,6 +3,7 @@
 <h2 align="center">Software Engineer Fullstack .NET</h2>
 </div>
 
+## My portfólio: [Portfólio Ale Alencar - Developer](https://alealencarrdev.vercel.app/)
 ## My main project: [Hungry - BurguerVibes](https://alealencarr.github.io/TechChallenge/)
 
 ## About me
@@ -12,8 +13,6 @@ Software Engineer with 4+ years of experience, focused on backend development us
 I started my journey working on a legacy ERP system with Web Forms, ADO.NET, and SQL Server 2008. Currently, I work on building scalable, internal applications for retail logistics using modern tools like .NET 9, C# 10, Blazor, and EF Core.
 
 Graduated in Systems Analyisis and Development and currently pursuing a post-graduate degree in Software Architecture at FIAP.
-
-My portfólio: [Portfólio Ale Alencar - Developer](https://alealencarrdev.vercel.app/)
 
 <br>
 <div align="center">
