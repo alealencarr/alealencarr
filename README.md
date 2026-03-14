@@ -4,7 +4,7 @@
 </div>
 
 ## My portfólio: [Portfólio Ale Alencar - Developer](https://alealencarrdev.vercel.app/)
-## Meus principais projetos: [Hackaton - Fiap](https://alealencarr.github.io/Hackaton_FIAP_SOAT_11/) [Hungry - BurguerVibes](https://alealencarr.github.io/TechChallenge/)
+## Meus principais projetos: [Hackaton - Fiap](https://alealencarr.github.io/Hackaton_FIAP_SOAT_11/)    ||   [Hungry - BurguerVibes](https://alealencarr.github.io/TechChallenge/)
 
 ## About me
 
