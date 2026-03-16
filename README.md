@@ -12,7 +12,7 @@ Engenheiro de Software com mais de 4 anos de experiência, focado em desenvolvim
 
 Comecei minha jornada profissional trabalhando em um sistema ERP legado com Web Forms, ADO.NET e SQL Server 2008. Atualmente, trabalho na construção de aplicações internas escaláveis ​​para logística de varejo, utilizando ferramentas modernas como .NET 9, C# 10, Blazor e EF Core.
 
-Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando pós-graduação em Arquitetura de Software na FIAP.
+Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software na FIAP.
 
 <br>
 <div align="center">
