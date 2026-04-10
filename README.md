@@ -1,12 +1,3 @@
-<div align="center" style="display: inline_block"><br>
-<h1 align="center">Hello world! Eu sou Alexandre Alencar, Engenheiro de Software!</h1>
-<h2 align="center">Software Engineer Fullstack .NET</h2>
-</div>
-
-## Meu portfólio: [Portfólio Ale Alencar - Developer](https://alealencarrdev.vercel.app/)
-## Meus principais projetos: [Hackaton - Fiap](https://alealencarr.github.io/Hackaton_FIAP_SOAT_11/)    ||   [Hungry - BurguerVibes](https://alealencarr.github.io/TechChallenge/)
-
-## Sobre mim
 
 Engenheiro de Software com mais de 4 anos de experiência, focado em desenvolvimento backend utilizando tecnologias .NET. Sólida experiência em sistemas ERP legados e arquiteturas modernas para soluções de varejo e logística.
 
