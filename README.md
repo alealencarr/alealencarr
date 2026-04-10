@@ -20,7 +20,7 @@ Git, GitHub, Azure DevOps, Docker, Kubernetes
 CI/CD with Azure DevOps
 
 <div align="center">
-![Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
+[Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
 </div>
 
 
