@@ -1,23 +1,5 @@
 
-Engenheiro de Software com mais de 4 anos de experiência, focado em desenvolvimento backend utilizando tecnologias .NET. Sólida experiência em sistemas ERP legados e arquiteturas modernas para soluções de varejo e logística.
-
-Comecei minha jornada profissional trabalhando em um sistema ERP legado com Web Forms, ADO.NET e SQL Server 2008. Atualmente, trabalho na construção de aplicações internas escaláveis ​​para logística de varejo, utilizando ferramentas modernas como .NET 9, C# 10, Blazor e EF Core.
-
-Sou graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Arquitetura de Software na FIAP.
-
-Linguagens: C#
-Frameworks: .NET Core, ASP.NET, .NET Framework
-APIs: REST, SOAP
-Data Acess: EF Core, Dapper, ADO.NET
-DBs: SQL Server, T-SQL
-Patterns: Design Patterns, SOLID
-Arquitetura: Clean, Hexagonal, Microservices, Vertical Sliced, MVC
-Auth: JWT, AD e Cognito
-
-Blazor, Razor, Web Forms, jQuery
-
-Git, GitHub, Azure DevOps, Docker, Kubernetes
-CI/CD with Azure DevOps
+Engenheiro de Software, 4+ anos de xp.
 
 <div align="center">
 [Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
