@@ -1,4 +1,6 @@
-Alexandre Alencar, Software Engineer, 4+ anos de xp.
+Alexandre Alencar, Software Engineer, 4+ years of xp.
+
+Skills: 
 
 ![Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
 
