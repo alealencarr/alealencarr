@@ -4,6 +4,7 @@ Skills:
 
 ![Minhas Skills](https://skillicons.dev/icons?i=dotnet,docker,nodejs,kubernetes,git,github,aws,azure,jquery,react,visualstudio,javascript&theme=dark&perline=20)
 
+Contact-me: 
 
 <p align="left">
 <a href="https://linkedin.com/in/alealencarr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
